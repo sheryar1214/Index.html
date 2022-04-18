@@ -1,4 +1,4 @@
 # odin-recipes
 My First HTML Project
-I am quite exicted about the project that i am about to start. I have learned how to make better use of paragaph marks and other different things we will use.ssss
-What changes will you be making this project. 
+It has been a wild ride doing my first website. 
+It was very challenging. but i am so happy with what i have done. 
